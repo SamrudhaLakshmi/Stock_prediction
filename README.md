@@ -13,6 +13,6 @@ The main steps covered in the code include:
 - Training the LSTM model on the training set
 - Evaluating the model's performance using mean squared error (MSE) loss
 - Visualizing the predicted values against the actual values using seaborn and matplotlib
-- Please note that this code assumes Python 3.7.13 and requires the installation of the opendatasets library. It also requires providing your Kaggle credentials for dataset download.
 
+Please note that this code assumes Python 3.7.13 and requires the installation of the opendatasets library. It also requires providing your Kaggle credentials for dataset download.
 Feel free to explore the code and adapt it for your own time series analysis and prediction tasks.
